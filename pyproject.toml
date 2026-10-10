@@ -1,0 +1,14 @@
+[project]
+name = "tallerpca"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "graphviz>=0.21",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "ucimlrepo>=0.0.7",
+]
